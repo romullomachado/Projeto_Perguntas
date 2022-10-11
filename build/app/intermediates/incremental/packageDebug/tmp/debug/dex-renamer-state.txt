@@ -1,0 +1,4 @@
+#Fri Sep 23 13:32:06 BRT 2022
+base.0=/Users/romullomachado/Documents/ROMULLO/Pessoal/Projetos/Flutter/projetos/ESTUDO/projeto_perguntas/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
